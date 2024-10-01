@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 
 export default function TodoInput(props) {
  const {handleAddtodos, todoValue, setTodoValue} = props
